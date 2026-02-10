@@ -27,14 +27,14 @@ For a better experience, while using the Application, the Service Provider may r
 
 The core functionality of the Application involves generating AI-powered videos from your photos and text prompts. To provide this service, the Application sends your uploaded photos, images, and text prompts to third-party AI service providers for processing. Specifically:
 
-*   **What data is sent:** Photos and images you select for video generation, text prompts you provide, and technical parameters (such as resolution and duration settings).
+*   **What data is sent:** Photos and images you select for video generation, videos you upload for enhancement or reference, audio files you provide for avatar/talking video features, text prompts you enter, and technical parameters (such as resolution and duration settings).
 *   **Who the data is sent to:** The Application uses the following third-party AI service providers:
     *   [FAL.ai](https://fal.ai/privacy) — AI video generation
     *   [WaveSpeed AI](https://wavespeed.ai/static/privacy) — AI video generation
-*   **Purpose:** Your data is sent solely for the purpose of generating AI videos as requested by you. These providers process your data on their servers and return the generated video to the Application.
+*   **Purpose:** Your data is sent solely for the purpose of generating AI videos, enhancing video quality, or creating audio as requested by you. These providers process your data on their servers and return the generated content to the Application.
 *   **Data retention by providers:** These AI service providers may temporarily store your data during processing. Please refer to their respective privacy policies for details on their data handling practices.
 
-By using the video generation features of the Application, you acknowledge and consent to your photos and prompts being transmitted to these third-party AI services for processing.
+By using the video generation features of the Application, you acknowledge and consent to your photos, videos, audio, and prompts being transmitted to these third-party AI services for processing.
 
 **Third Party Access**
 
