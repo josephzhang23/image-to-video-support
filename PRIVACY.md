@@ -25,9 +25,9 @@ For a better experience, while using the Application, the Service Provider may r
 
 **Third-Party AI Processing**
 
-The core functionality of the Application involves generating AI-powered videos from your photos, videos, audio, and text prompts. To provide this service, the Application sends your uploaded photos, images, videos, audio files, and text prompts to third-party AI service providers for processing. Specifically:
+The core functionality of the Application involves generating AI-powered videos from your photos, videos, audio, and text prompts. To provide this service, the Application sends your uploaded images, videos, audio files, and text prompts to third-party AI service providers for processing. Specifically:
 
-*   **What data is sent:** Photos and images you select for video generation, videos you upload for enhancement or reference, audio files you provide for avatar/talking video features, text prompts you enter, and technical parameters (such as resolution and duration settings).
+*   **What data is sent:** Images you select for video generation, videos you upload for enhancement or reference, audio files you provide for avatar/talking video features, text prompts you enter, and technical parameters (such as resolution and duration settings).
 *   **Who the data is sent to:** The Application uses the following third-party AI service providers:
     *   [FAL.ai](https://fal.ai/privacy) — AI video generation
     *   [WaveSpeed AI](https://wavespeed.ai/static/privacy) — AI video generation
