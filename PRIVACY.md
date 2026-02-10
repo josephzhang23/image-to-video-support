@@ -23,12 +23,27 @@ The Service Provider may use the information you provided to contact you from ti
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
 
+**Third-Party AI Processing**
+
+The core functionality of the Application involves generating AI-powered videos from your photos and text prompts. To provide this service, the Application sends your uploaded photos, images, and text prompts to third-party AI service providers for processing. Specifically:
+
+*   **What data is sent:** Photos and images you select for video generation, text prompts you provide, and technical parameters (such as resolution and duration settings).
+*   **Who the data is sent to:** The Application uses the following third-party AI service providers:
+    *   [FAL.ai](https://fal.ai/privacy) — AI video generation
+    *   [WaveSpeed AI](https://wavespeed.ai/static/privacy) — AI video generation
+*   **Purpose:** Your data is sent solely for the purpose of generating AI videos as requested by you. These providers process your data on their servers and return the generated video to the Application.
+*   **Data retention by providers:** These AI service providers may temporarily store your data during processing. Please refer to their respective privacy policies for details on their data handling practices.
+
+By using the video generation features of the Application, you acknowledge and consent to your photos and prompts being transmitted to these third-party AI services for processing.
+
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+In addition to the AI service providers described above, aggregated and anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
+*   [FAL.ai](https://fal.ai/privacy)
+*   [WaveSpeed AI](https://wavespeed.ai/static/privacy)
 *   [RevenueCat](https://www.revenuecat.com/privacy)
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
@@ -59,7 +74,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-08-12
+This privacy policy is effective as of 2026-02-10
 
 **Your Consent**
 
