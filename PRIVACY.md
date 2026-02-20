@@ -28,6 +28,16 @@ The core functionality of the Application involves generating AI-powered videos 
 
 By using the video generation features of the Application, you acknowledge and consent to your photos, videos, audio, and prompts being transmitted to these third-party AI services for processing.
 
+**Face Data**
+
+Certain features of the Application involve the use of photos that may contain human faces. This section explains how the Application handles face data:
+
+*   **What face data is collected:** When you use features such as image-to-video generation, avatar creation, or face-driven animation, you may upload photos containing human faces. The Application transmits these photos to third-party AI service providers (FAL.ai and WaveSpeed AI) for processing. The Application does not perform local facial recognition, extract facial geometry, create facial feature maps, or generate biometric identifiers from your photos.
+*   **How face data is used:** Face data contained in your uploaded photos is used solely for the purpose of generating AI-powered videos as requested by you. This includes animating faces in photos, creating talking avatars, and producing face-driven video content. Face data is never used for facial recognition, user identification, authentication, advertising, or any purpose other than the user-initiated video generation.
+*   **Third-party sharing:** Photos containing face data are transmitted to FAL.ai and WaveSpeed AI exclusively for AI video generation processing. No face data is sold, shared with, or disclosed to any other third parties, except as described in the "Third Party Access" section below.
+*   **Storage and retention:** The Application stores your uploaded photos and generated videos on its cloud servers (Supabase) as part of your account data. Third-party AI service providers (FAL.ai and WaveSpeed AI) may temporarily store your photos during processing; such temporary data is typically deleted within 24 to 72 hours. Please refer to their respective privacy policies ([FAL.ai](https://fal.ai/privacy), [WaveSpeed AI](https://wavespeed.ai/static/privacy)) for specific retention details. You may delete your generated content at any time within the Application.
+*   **No biometric data:** The Application does not collect, create, or store biometric identifiers or biometric information as defined under applicable biometric privacy laws. No facial geometry, faceprint, or facial recognition template is extracted from your photos at any point.
+
 **Third Party Access**
 
 In addition to the AI service providers described above, aggregated and anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
@@ -66,7 +76,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-02-10
+This privacy policy is effective as of 2026-02-20
 
 **Your Consent**
 
