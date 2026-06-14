@@ -8,12 +8,7 @@ For help, feedback, billing questions, or account-related requests, contact:
 
 **support@josephworks.app**
 
-Please include the following details when contacting support:
-
-- The app version you are using
-- Your device model and iOS/macOS version
-- A short description of the issue
-- Screenshots or screen recordings if they help explain the problem
+Send us a short message about what happened. If you can, include a screenshot or screen recording so we can understand the issue faster.
 
 ## Privacy Policy
 
