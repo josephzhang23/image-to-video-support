@@ -57,7 +57,7 @@ Aggregated and anonymized data may periodically be transmitted to external servi
 *   **AI provider retention:** FAL.ai retains uploaded files and generated content for a minimum of 7 days before deletion. WaveSpeed AI automatically deletes all user-generated content after 7 days. Agnes AI may temporarily retain uploaded files and generated content during processing. Please refer to their respective policies for further details: [FAL.ai](https://fal.ai/privacy), [WaveSpeed AI](https://wavespeed.ai/docs/data-retention-policy), [Agnes AI](https://agnes-ai.com).
 *   **Task history:** Generated video URLs and task metadata (prompts, settings) are stored in the Application's database as part of your account.
 *   **Account data:** The Service Provider will retain user-provided data for as long as you use the Application and for a reasonable time thereafter.
-*   **Deletion requests:** If you would like your data deleted, please contact joseph@josephworks.app. You may also delete your generated content at any time within the Application.
+*   **Deletion requests:** If you would like your data deleted, please contact support@josephworks.app. You may also delete your generated content at any time within the Application.
 
 **Data Disclosure**
 
@@ -69,7 +69,7 @@ The Service Provider may disclose your information:
 
 **Children's Privacy**
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. If the Service Provider discovers that a child under 13 has provided personal information, they will immediately delete it. If you are a parent or guardian and believe your child has provided personal information, please contact joseph@josephworks.app.
+The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. If the Service Provider discovers that a child under 13 has provided personal information, they will immediately delete it. If you are a parent or guardian and believe your child has provided personal information, please contact support@josephworks.app.
 
 **Security**
 
@@ -87,4 +87,4 @@ This privacy policy is effective as of 2026-06-14
 
 **Contact Us**
 
-If you have any questions regarding privacy while using the Application, please contact the Service Provider via email at joseph@josephworks.app.
+If you have any questions regarding privacy while using the Application, please contact the Service Provider via email at support@josephworks.app.

@@ -6,7 +6,7 @@ Photo to Video is an AI video generation app by Joseph Works Limited. It helps y
 
 For help, feedback, billing questions, or account-related requests, contact:
 
-**joseph@josephworks.app**
+**support@josephworks.app**
 
 Please include the following details when contacting support:
 
@@ -37,4 +37,4 @@ The app sends the photos, videos, audio, and prompts you choose to third-party A
 
 To request deletion of user-provided data associated with the app, email:
 
-**joseph@josephworks.app**
+**support@josephworks.app**
