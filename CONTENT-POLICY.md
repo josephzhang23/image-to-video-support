@@ -25,12 +25,7 @@ There is zero tolerance for this content. This applies regardless of whether the
 
 ## Reporting Violations
 
-If you encounter content that violates this policy:
-
-- Use the report option in the Application, or
-- Email **support@josephworks.app** with a description and, if possible, a screenshot
-
-Reports are reviewed promptly, and reported content that violates this policy is removed within 24 hours.
+If you encounter content that violates this policy, email **support@josephworks.app** with a description and, if possible, a screenshot. Reports are reviewed promptly, and reported content that violates this policy is removed within 24 hours.
 
 ## Changes to This Policy
 
