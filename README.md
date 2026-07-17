@@ -16,6 +16,12 @@ Read the privacy policy here:
 
 [Privacy Policy](PRIVACY.md)
 
+## Content Policy
+
+Read the content policy, including our zero-tolerance rules for objectionable content and how to report violations:
+
+[Content Policy](CONTENT-POLICY.md)
+
 ## Credits and Purchases
 
 Photo to Video uses credits for AI generation tasks. If a purchase succeeds but credits do not appear immediately, please restart the app and check again. If the issue remains, contact support with your purchase receipt or Apple order information.

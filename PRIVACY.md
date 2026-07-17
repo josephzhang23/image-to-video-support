@@ -31,6 +31,10 @@ The Application uses the following third-party AI service providers:
 
 Your content is used solely for the purpose of generating AI videos, enhancing video quality, or creating audio as requested by you. Your content is never used for facial recognition, user identification, authentication, advertising, or any purpose other than the video generation you initiate.
 
+**Content Moderation**
+
+To keep the Application safe and comply with our [Content Policy](CONTENT-POLICY.md), content you submit for generation is screened by automated content safety systems as part of processing. Content that you or other users report as violating the Content Policy may additionally be reviewed by a human and may be retained as long as necessary to enforce the policy, including blocking violating accounts and cooperating with law enforcement where required by law.
+
 **Face Data**
 
 Certain features of the Application involve photos that may contain human faces (such as image-to-video generation, avatar creation, or face-driven animation). This section explains how face data is handled:
