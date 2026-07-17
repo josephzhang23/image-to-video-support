@@ -4,7 +4,7 @@
 
 This Content Policy applies to the Photo to Video app by Joseph Works Limited. By using the Application, you agree to this policy in addition to the applicable terms of use.
 
-## Zero-Tolerance for Objectionable Content
+## Prohibited Content
 
 You may not use the Application to create, attempt to create, or share:
 
@@ -14,7 +14,7 @@ You may not use the Application to create, attempt to create, or share:
 - Content that promotes violence, self-harm, or hatred against individuals or groups
 - Content that harasses, threatens, or defames any person
 
-There is zero tolerance for this content. This applies regardless of whether the depicted person is real or AI-generated, and regardless of whether you have the depicted person's photo lawfully.
+This content is not permitted under any circumstances — regardless of whether the depicted person is real or AI-generated, and regardless of whether you have the depicted person's photo lawfully.
 
 ## How We Enforce This Policy
 

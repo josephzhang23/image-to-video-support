@@ -18,7 +18,7 @@ Read the privacy policy here:
 
 ## Content Policy
 
-Read the content policy, including our zero-tolerance rules for objectionable content and how to report violations:
+Read the content policy, including what content is not allowed and how to report violations:
 
 [Content Policy](CONTENT-POLICY.md)
 
