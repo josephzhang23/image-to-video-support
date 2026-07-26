@@ -1,6 +1,6 @@
 # Photo to Video Support
 
-Photo to Video is an AI video generation app by Joseph Works Limited. It helps you create, edit, extend, and enhance videos from photos, videos, and text prompts.
+Photo to Video is an AI video generation app by Joseph Works Limited. It helps you create, edit, extend, and enhance videos from photos, videos, and text prompts. Also available on the web at [photo2video.ai](https://photo2video.ai).
 
 ## Support
 
